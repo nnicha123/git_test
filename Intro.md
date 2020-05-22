@@ -1,16 +1,16 @@
 # About me
-<!-- <img src="me.jpg" width="20%">   -->
+![me](<img src="me.jpg" width="20px"/>)
 * Name -> Nicha Ngamtweerat
 * Nickname -> Fern
 * Age -> 24 years old
 * Personality Type -> ENTJ :chicken:
 
-Favourite Things 
+### Favourite Things 
 * Dogs :dog:
 * Games :video_game:
 * Netflix :movie_camera:
 
-Favourite Quote
+#### Favourite Quote
 >> I want to be all that I am capable of becoming - Katherine Mansfield :gift_heart:
 
 Past Experiences
