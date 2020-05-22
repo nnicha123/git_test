@@ -1,7 +1,22 @@
 # About me
 <!-- <img src="me.jpg" width="20%">   -->
-### Favourite Things 
+* Name -> Nicha Ngamtweerat
+* Nickname -> Fern
+* Age -> 24 years old
+* Personality Type -> ENTJ :chicken:
+
+Favourite Things 
 * Dogs :dog:
 * Games :video_game:
-* Netflix :movie_camera
+* Netflix :movie_camera:
 
+Favourite Quote
+>> I want to be all that I am capable of becoming - Katherine Mansfield :gift_heart:
+
+Past Experiences
+* Toyota Tsusho Denso Electronics Thailand :car:
+* Nissan Motor Asia Pacific :blue_car:
+
+Favourite Series/Movies
+* A-typical
+* Ratallouie :rat:
