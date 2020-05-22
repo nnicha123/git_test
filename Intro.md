@@ -1,5 +1,6 @@
 # About me
-![me](<img src="me.jpg" width="20px"/>)
+[<img src="me2.jpg" height="200px"/>]()
+[<img src="dog.jpg" height="200px"/>]()
 * Name -> Nicha Ngamtweerat
 * Nickname -> Fern
 * Age -> 24 years old
