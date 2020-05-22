@@ -16,3 +16,4 @@
     * content  
 ![strh aer](https://jooin.com/images/nature01.jpg)  
 [markdown](https://code.visualstudio.com/docs/languages/markdown)
+>> npm install ..... (block quote to explain install commands)
