@@ -14,6 +14,10 @@
 * Dogs 
 * Games 
 * Netflix 
+---
+### Friends from CodeCamp
+* N'Bank
+* Cake
 
 #### Favourite Quote
 >> __*I want to be all that I am capable of becoming - Katherine Mansfield :gift_heart:*__
