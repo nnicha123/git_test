@@ -36,5 +36,5 @@ function test() {
   console.log("notice the blank line before this function?");
 }
 ```
-"body": "Component \n | --------\n ![alt text](:small_red_triangle_down:)"
+
 :blush:
