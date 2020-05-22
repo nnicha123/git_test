@@ -1,2 +1,7 @@
 # About me
-![strh aer](me.jpg=100px100)
+<!-- <img src="me.jpg" width="20%">   -->
+### Favourite Things 
+* Dogs :dog:
+* Games :video_game:
+* Netflix :movie_camera
+
