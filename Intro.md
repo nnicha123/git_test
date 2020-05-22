@@ -1,6 +1,9 @@
+
 # About me
 [<img src="me2.jpg" height="200px"/>]()
 [<img src="dog.jpg" height="200px"/>]()
+
+### Personal Information
 * Name -> Nicha Ngamtweerat
 * Nickname -> Fern
 * Age -> 24 years old
